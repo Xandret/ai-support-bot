@@ -1,0 +1,11 @@
+.env
+# случайные текстовые файлы с ключами
+*.txt
+!requirements.txt
+.venv/
+__pycache__/
+*.pyc
+logs/
+*.cer
+*.crt
+*.pem
